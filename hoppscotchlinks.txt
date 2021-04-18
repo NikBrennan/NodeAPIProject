@@ -1,2 +1,0 @@
-https://hoppscotch.io/?method=GET&url=http://localhost:4000&path=/classes/6074854447ee4a53d4bbf5a9&rawParams=%7B%0A%20%20%22classType%22:%20%22Chicken%22%0A%7D
-https://hoppscotch.io/?method=GET&url=http://localhost:4000&path=/characters&rawParams=%7B%0A%20%20%22classType%22:%20%22Chicken%22%0A%7D
